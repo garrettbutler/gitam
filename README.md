@@ -1,0 +1,2 @@
+# gitam
+Git Alias Manager
